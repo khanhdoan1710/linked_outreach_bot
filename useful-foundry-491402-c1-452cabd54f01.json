@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "useful-foundry-491402-c1",
+  "private_key_id": "452cabd54f0104b2d00da3e45b8ea92734c17e7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG6jOTVPdvq8UO\nxulxJgkHbgUEeCIGLBmUoZem4tBCWI7DzTd9Uo+1wMdsxWlJwYZI6c+o+jBpM60n\nQFuUxtAe+oaBRa84H4MwyqgANw+MmCw/Jw6mNsvs1CwavkfKBnG56eZIeHq/fj2Y\nrFSDh8nVT39V3UGlrJjqcSmAVLqhcPrF4K8c9B8UfUoBbLIyYZfmmhXk4aGLA4S9\npJqNRr7ZoKjebb0Heknh/P44rw30DAMc+ld6LH/e1Q3PMmnQeeR45F5UuCMB1J8e\npimU142UEghKBh2CTYF1eU7GjfU0sl8EPjbgIU7P9zgQYYIy4KErBf30YEF+OEB+\nohgkCmv9AgMBAAECggEAHRvPwVs5PHPIChIMvlyhDJ/Khy1nWTzh33DIRwlBDbx0\n4+1nleTbl+7moCHBdyQlWQ0yMNmv9O01hR1zaXGwqh/iSA+hBRcDdUPq0uE72si4\nDOPTznoNXJJuA9ndmpBX2yuB4hATcmtwayOo2HiqDhesnC2dOjfoRsKZnqiHiTFD\nohs5Gfs9cYxeHqq6fzSPCIV064DLnreR4OGvJzHt1J0uNrFpd28m0nQvGs2pf1VD\nWF3yBsHeUZf1d6B+LIdqIK2P51tL/ks+AthvU06oUKVglGlqFod9SkypcDva5tAo\n/oOJ49DeEotF2bnqyRvnoHjzu01Uxg3F9w+Lqib7JwKBgQDydPceE3CR6gjy+phi\n+PheHSiD07PSCFPZMicpdkVFjG6AirkM6PEVV4kGR3+SfHaONZ/+qlvWvIsuUTK+\npjVB/34A0gQvNx4Qs8B6sun4U/InoKPBpp/EQEx1s42vbx34pMgb+NsGjhPCKIR3\njRul3EQLPT8uq6AbWKqXTQOrfwKBgQDSBppIVUXn3+RyR4YpPeTcmWV3gjETw63F\nt//Bpx6YZdjA70h4TuMnce9sJprEYSDDWelwItjCj2Od6xgqMmg5yA8u+SzBf+mt\nxCkJ327GNfncUPoVEc9nZSTY1jaMn8RtBzaQlXClrBPl4hqb3txinPdbAwQVM45B\nO95CSvNWgwKBgADmJCBtbAZuergD69q6F5mpvAO5HjqSI1Vz1SdXM+yNF7/MQ+Fj\nX7l3iJ+IVlXBtmLSmhREp3CFZHK4hFqmnR3wh5QTM0bFiov/TqBl124/SW+SLelC\n5+a/YkkxcD4NSGwqmD9aTd2ZW0NmCQ+0azzTM0Fjab+PjVlsm71R4MibAoGBAK4H\n3JXtWvStWF29mJTZ/acx0Js7nTEUZwy7z8iGk1qSog4U+McAD0fjKBJE1t+83+of\nucg6h8SIDnKPmMF2bVjbxoEU5hocxORA9ASDSQYjObxuuRr2XBb//41Ry3ew95Gk\ndXlO6z3MndxSA9x+yb1I9cpLcHmk885oLl5ePs7DAoGAFOuoPtyWozBtnkhlZa7B\nHj2nyUZCEf2TtzCVTX42MWdyUuDV9hUNq5nWbQnNw0i1t7UMd6K9tFchOLCEyI1L\njTg45/tgzRkkZYLDOCyGevZZwo8cmkrRAiCGoI78komaQWycczPzBnpT0GVSkuRo\nbM68MwRLDQcl1EW3XdYK4IM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "linkedin-outreach@useful-foundry-491402-c1.iam.gserviceaccount.com",
+  "client_id": "117511715359009399694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/linkedin-outreach%40useful-foundry-491402-c1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

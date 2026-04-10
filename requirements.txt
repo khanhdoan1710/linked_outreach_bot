@@ -1,0 +1,23 @@
+# Web Automation & Browser Control
+selenium>=4.15.0
+undetected-chromedriver>=3.5.4
+playwright>=1.40.0
+
+# Google Sheets & APIs
+gspread>=6.0.0
+gspread-dataframe>=3.3.0
+google-auth>=2.25.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.107.0
+
+# Data Processing
+pandas>=2.1.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Additional Utilities
+lxml>=4.9.0
